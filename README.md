@@ -2,7 +2,7 @@
 
 ## Im Nima:
 
-- 🔭 I’m currently working on Android development
+- 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on PHP-Laravel
 - 💬 Ask me about Anything
