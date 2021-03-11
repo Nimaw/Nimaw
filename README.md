@@ -4,7 +4,7 @@
 <a href="https://github.com/Nimaw/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimaw" />
 </a>
-```php
-
-class Nima extens Human
-```
+  ```javascript
+  
+      class Nima extens Human
+  ```
