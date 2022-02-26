@@ -1,3 +1,41 @@
+```php
+<?php
+
+namespace App\Models;
+
+class Nima extends Human implements 
+{
+    use InteractsWithHeartBeats,  InteractsWithDifficultconditions;
+    
+    public function getCurrentWorkplaceAttribute(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'MDade',
+                'position' => 'Back End developer'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledgeAttribute(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            Python::class,
+            JS::class,
+            Git::class
+        ];
+    }
+
+    public function getFutureGoalAttribute(): string
+    {
+        return 'To contribute to more open source projects.';
+    }
+}
+```
+
+
 <p align="center" style"dir:rtl">
   <a href="https://github.com/Nimaw/">
   <img src="https://github-readme-stats.vercel.app/api?username=nimaw&show_icons=true&theme=monokai" alt="Nimaw GitHub stats" />
