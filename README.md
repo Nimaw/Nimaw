@@ -36,7 +36,7 @@ class Nima extends Human
 ```
 
 
-![Nima's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nimaw&theme=xcode)]
+![Nima's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nimaw&theme=xcode)
 
 <p align="center" style"dir:rtl">
   <a href="https://github.com/Nimaw/">
