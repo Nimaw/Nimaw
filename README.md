@@ -11,7 +11,7 @@ class Nima extends Human
     {
         return [
             'workplace' => [
-                'company' => 'MDade',
+                'company' => 'Mdadeh',
                 'position' => 'Back End developer'         
             ]
         ];
