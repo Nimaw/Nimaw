@@ -38,7 +38,6 @@ class Nima extends Human
 
 ![Nima's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nimaw&theme=xcode)
 
-<p align="center" style"dir:rtl">
   <a href="https://github.com/Nimaw/">
   <img src="https://github-readme-stats.vercel.app/api?username=nimaw&show_icons=true&theme=monokai" alt="Nimaw GitHub stats" />
 </a>
@@ -48,4 +47,3 @@ class Nima extends Human
 
 
 
-</p>
