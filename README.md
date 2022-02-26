@@ -42,7 +42,7 @@ class Nima extends Human
   <img src="https://github-readme-stats.vercel.app/api?username=nimaw&show_icons=true&theme=monokai" alt="Nimaw GitHub stats" />
 </a>
 <a href="https://github.com/Nimaw/" >
-  <img style="margin-left: 2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=nimaw&theme=monokai" alt="Nimaw GitHub Github Steak" />
+  <img style="margin-left: 1rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=nimaw&theme=monokai" alt="Nimaw GitHub Github Steak" />
 </a>
 
 
