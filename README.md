@@ -3,7 +3,7 @@
 
 namespace App\Models;
 
-class Nima extends Human implements 
+class Nima extends Human
 {
     use InteractsWithHeartBeats,  InteractsWithDifficultconditions;
     
@@ -35,6 +35,8 @@ class Nima extends Human implements
 }
 ```
 
+
+[![Nima's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nimaw&theme=xcode)]
 
 <p align="center" style"dir:rtl">
   <a href="https://github.com/Nimaw/">
