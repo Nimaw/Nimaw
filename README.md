@@ -2,6 +2,7 @@
 <?php
 
 namespace App\Models;
+use Illuminate\Foundation\Human;
 
 class Nima extends Human
 {
